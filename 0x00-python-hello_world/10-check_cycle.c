@@ -6,6 +6,7 @@
  * @list: pointer to the list
  * Return: 0 if there is no cycle,
  * 1 if there is a cycle
+ * Author: Darryl Nnon
  */
 int check_cycle(listint_t *list)
 {
